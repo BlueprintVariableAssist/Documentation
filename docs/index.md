@@ -1,8 +1,21 @@
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Nt12TXSlue4" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube&style=for-the-badge" alt="Watch on YouTube">
+  </a>
+  &nbsp;
+  <a href="https://www.fab.com/listings/c4f462ba-0068-4961-8fa5-d76d192aa814" target="_blank">
+    <img src="https://img.shields.io/badge/Get%20on%20Fab-BPVarAssist-009688?logo=unrealengine&style=for-the-badge" alt="Get on Fab">
+  </a>
+</p>
+
 # BP Variable Assist
 
-A minimal, modern Unreal Engine plugin for **ultra-fast Blueprint variable management**.
+:material-rocket-launch: *A minimal, modern Unreal Engine plugin for **ultra-fast Blueprint variable management**.*
+
+![Blueprint Variable Assist](ScreenShots/BlueprintVariable%20Assist.jpg)
 
 ---
+
 
 ## :material-star-outline: Features
 
@@ -101,7 +114,7 @@ Personalize the plugin to fit your workflow.
 
 ## :material-email-outline: Need Help?
 
-Contact [geektechcg@gmail.com](mailto:geektechcg@gmail.com) or visit [plugin website on fab](https://your-site.com) for updates and documentation.
+Contact [GeekTech](mailto:geektechcg@gmail.com) or visit [plugin website on fab](https://www.fab.com/listings/c4f462ba-0068-4961-8fa5-d76d192aa814) for updates and documentation.
 
 ---
 
@@ -112,4 +125,4 @@ Compatible with Unreal Engine 5.1-5.6+
 
 ---
 
-*Ready to supercharge your Blueprint workflow? Get [**BPVarAssist**](https://fab.com) now!*
+*Ready to supercharge your Blueprint workflow? Get [**BPVarAssist**](https://www.fab.com/listings/c4f462ba-0068-4961-8fa5-d76d192aa814) now!*
