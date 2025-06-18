@@ -101,15 +101,15 @@ Personalize the plugin to fit your workflow.
 
 ## :material-email-outline: Need Help?
 
-Contact [GeekTech](mailto:your@email.com) or visit [plugin website](https://your-site.com) for updates and documentation.
+Contact [geektechcg@gmail.com](mailto:geektechcg@gmail.com) or visit [plugin website on fab](https://your-site.com) for updates and documentation.
 
 ---
 
 <small>
 BPVarAssist is developed and maintained by GeekTech.  
-Compatible with Unreal Engine 5.5+
+Compatible with Unreal Engine 5.1-5.6+
 </small>
 
 ---
 
-*Ready to supercharge your Blueprint workflow? Try [**BPVarAssist**](https://fab.com) now!*
+*Ready to supercharge your Blueprint workflow? Get [**BPVarAssist**](https://fab.com) now!*
